@@ -41,9 +41,15 @@ Features:
 
 ### Useful Links: 
 
-* [React native on GitHub](https://github.com/facebook/react-native)
-* [Getting Started with React Native](https://facebook.github.io/react-native/docs/getting-started.html)
-* [Expo Introduction](https://docs.expo.io/versions/v32.0.0/)
+* POGO
+  * Initial API: [Intro](https://pogoapi.net/), [API Docs](https://pogoapi.net/documentation/)
+  * [Stat Calculations 1](https://pokemongo.gamepress.gg/pokemon-stats-advanced)
+  * [Stat Calculations 2](https://pokemongohub.net/post/wiki/pokemon-go-calculates-stats-max-cp/) (Not sure if this one is still accurate)
+  * [CP Multiplier](https://pokemongo.gamepress.gg/cp-multiplier)
+* React Native / Expo
+  * [React native on GitHub](https://github.com/facebook/react-native)
+  * [Getting Started with React Native](https://facebook.github.io/react-native/docs/getting-started.html)
+  * [Expo Introduction](https://docs.expo.io/versions/v32.0.0/)
 
 ### Possible TODOs:
 
