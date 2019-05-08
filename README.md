@@ -39,3 +39,15 @@ Features:
 * Not interested (at this time) in adding anything related to Gyms, Stops, Raids, Catch Percentages, Ditto, Research, Items, Events, etc. 
 
 
+### Useful Links: 
+
+* [React native on GitHub](https://github.com/facebook/react-native)
+* [Getting Started with React Native](https://facebook.github.io/react-native/docs/getting-started.html)
+* [Expo Introduction](https://docs.expo.io/versions/v32.0.0/)
+
+### Possible TODOs:
+
+* Add Local Storage
+* Add Redux
+* ???
+
