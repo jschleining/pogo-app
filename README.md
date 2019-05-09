@@ -39,6 +39,15 @@ Features:
 * Not interested (at this time) in adding anything related to Gyms, Stops, Raids, Catch Percentages, Ditto, Research, Items, Events, etc. 
 
 
+## Getting Started
+* Install CLI. I prefer Git Bash, which comes as part of [Git for Windows](https://gitforwindows.org/).
+* Install the latest version of [Node](https://nodejs.org/en/).
+* Install [Expo](npm install -g expo-cli).
+  * Also install the Expo mobile app on your phone from the app store.
+* Pull down the project from Github
+* Run `npm install`
+
+
 ### Useful Links: 
 
 * POGO
