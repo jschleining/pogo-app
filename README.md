@@ -26,8 +26,10 @@ Features:
 
 * Nice to have. May not ever add these, but they aren't off the table.
   * Pokemon Tracker/Assistant (not live - personal) - [Example](https://pokeassistant.com/trainerstats/globalstats?locale=en)
+    * This would be for keeping track of your own pokemon, theorycrafting teams, and quickly determining what your best pokemon are. Additionally it would be useful for tracking dex fills.
   * IV Calculator - [Example 1](https://pokeassistant.com/main/ivcalculator), [Example 2](https://pokemongo.gamepress.gg/pokemongo-iv-calculator#/)
   * Evolution Calculator - [Example](https://pokeassistant.com/main/evolver?locale=en)
+    * Calculate what CP a pokemon would be after evolving
   * Battle Simulator - [Example](https://pokeassistant.com/main/index?locale=en)
   * Breakpoint Calculator - [Description](https://pokemongo.gamepress.gg/guide-breakpoints), [Example](https://pokemongo.gamepress.gg/breakpoint-calculator#/)
   * Bulkpoint Calculator - [Description](https://pokemongo.gamepress.gg/guide-bulkpoints), [Example](https://pokemongo.gamepress.gg/bulk-point-calculator#/)
